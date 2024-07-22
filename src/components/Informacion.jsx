@@ -9,8 +9,6 @@ Un statement es una instrucción para hacer algo, algunos statements son:
 
     Todos estos statemente deben escribirse antes del RETURN en react
 
-    
-
     Las EXPRESSIONS
     
     Es algo que produce un valor, una vez que es utilizada va a generar un valor nuevo y algunos ejemplos son:
